@@ -5,7 +5,7 @@
 # No persistence. No business logic. Pure mapping.
 
 import datetime
-from src.infrastructure.persistence.source_store.sapi.models import (
+from src.persistence.models import (
     SapiTitleIndexRecord,
     SapiOfferIndexRecord,
     SapiAssetIndexRecord,
