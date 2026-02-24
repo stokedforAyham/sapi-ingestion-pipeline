@@ -1,6 +1,6 @@
 # SAPI Ingestion Pipeline
 
-**An artifact of a larger data platform.** This is a production-grade ingestion system for the Streaming Availability API (SAPI), demonstrating thoughtful engineering decisions around data reliability, resumability, and schema design.
+**An artifact of a larger data platform.** This is a production-grade ingestion system for the Streaming Availability API (SAPI), demonstrating engineering decisions around data reliability, resumability, and schema design.
 
 ---
 
